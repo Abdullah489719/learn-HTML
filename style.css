@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(196, 196, 231);
+    color: BLACK;
+}
+td{
+    border: 2px solid black;
+}
+#studentid{
+    background-color: blueviolet;
+    color: brown;
+}
+.black{
+    color: yellow;
+}
